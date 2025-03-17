@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff&animation=blink&fontAlignY=50" />
+  <img src="https://fontmeme.com/temporary/40363094e7ddcce037c01980d665b3b8.png" alt="Pixel Text">
 </p>
 
 <div align="center">
