@@ -9,7 +9,6 @@
 
 </div>
 <br>
-<br>
 <h3 align = "center">🛠 Tech Stack</h3>
 <br>
 <p align="center">
@@ -33,10 +32,8 @@
   <br>
 </p>
 <br>
-
-
-
 <h3 align = "center">📊 GitHub Stats</h3>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blissyou&show_icons=true&theme=tokyonight" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blissyou&layout=compact&theme=tokyonight" height="150">
