@@ -40,6 +40,14 @@
 </p>
 <br>
 
+<h3 align="center">
+   🏡github 정원
+</h3>
+<br>
+
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=blissyou )](https://github.com/marshallku/gitgarden)
+
+<br>
 <h3 align = "center">🔗 Contact Me</h3>
 <p align="center">
   <a href="mailto:blue4509as@gmail.com" target="_blank">
@@ -53,11 +61,6 @@
   </a>
 </p>
 
-<h3 align="center">
-   🏡github 정원
-</h3>
-
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=blissyou )](https://github.com/marshallku/gitgarden)
 
 
 
