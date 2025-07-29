@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fontmeme.com/temporary/40363094e7ddcce037c01980d665b3b8.png" alt="Pixel Text">
+  <img width="1355" height="86" alt="Image" src="https://github.com/user-attachments/assets/9edf3699-97c0-4f92-8dc9-bc3dbe388417" />
 </p>
 
 <div align="center">
