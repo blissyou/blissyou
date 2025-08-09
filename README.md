@@ -1,5 +1,9 @@
 <p align="center">
-  <img width="1355" height="86" alt="Image" src="https://github.com/user-attachments/assets/9edf3699-97c0-4f92-8dc9-bc3dbe388417" />
+  <img
+    src="https://raw.githubusercontent.com/blissyou/readmeimage/main/ecce6618d5e37713b7c49456dfbfa5af.png"
+    alt="Image"
+    width="100%"
+  />
 </p>
 
 <div align="center">
