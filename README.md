@@ -43,15 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blissyou&layout=compact&theme=tokyonight" height="150">
 </p>
 <br>
-
-<h3 align="center">
-   🏡github 정원
-</h3>
-<br>
-
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=blissyou )](https://github.com/marshallku/gitgarden)
-
-<br>
 <h3 align = "center">🔗 Contact Me</h3>
 <p align="center">
   <a href="mailto:blue4509as@gmail.com" target="_blank">
